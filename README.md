@@ -1,6 +1,6 @@
-# basic-2020
+# Data Analysis Lecture
 
-##### python 기초 강좌
+##### python 으로 수행하는 데이터 분석 강좌
 
 ## 머신러닝 파이썬 활용 빅테이터 분석 개발자 양성 과정
 
