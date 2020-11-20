@@ -1,5 +1,9 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
+
+kakaomapkey.txt
+openweatherkey.txt
+roadapikey.txt
 samples
 googlemapskey.txt
 .ipynb_checkpoints
