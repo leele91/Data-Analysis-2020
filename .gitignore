@@ -1,6 +1,6 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
-
+커피업소정보.csv
 상권서울.csv
 kakaomapkey.txt
 openweatherkey.txt
