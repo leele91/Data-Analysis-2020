@@ -9,7 +9,7 @@ samples
 googlemapskey.txt
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-
+chromedriver.exe
 # IPython
 profile_default/
 ipython_config.py
